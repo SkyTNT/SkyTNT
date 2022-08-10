@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋, I'm SkyTNT
 
-<!--
-**SkyTNT/SkyTNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 Learned programming languages
 
-Here are some ideas to get you started:
+- Java
+- JavaScript
+- Python
+- C++
+- C#
+- Php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Current Learning direction
+
+- machine learning
+
+#### 🤔 Research interests
+
+- Image generation (current work : [Full-body Anime GAN](https://huggingface.co/spaces/skytnt/full-body-anime-gan))
+- Text generation (current work : [Japanese Lyric Generator](https://huggingface.co/spaces/skytnt/lyric-generator-ja))
+- Music generation
+- Game development
+
+#### 🪄 Previous learning experience
+
+- Android
+- Front-end web (Vue)
+
+#### 🥳 Hobbies
+
+- Make Music (composing and arranging, My works: [netease music](https://music.163.com/#/artist?id=46830712))
+- Anime
+
+![SkyTNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyTNT&count_private=true&show_icons=true)
