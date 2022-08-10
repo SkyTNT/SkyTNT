@@ -11,7 +11,7 @@
 
 #### 🔭 Current Learning direction
 
-- machine learning
+- Machine learning
 
 #### 🤔 Research interests
 
@@ -27,7 +27,7 @@
 
 #### 🥳 Hobbies
 
-- Make Music (composing and arranging, My works: [netease music](https://music.163.com/#/artist?id=46830712))
+- Make Music (composing and arranging, my works: [netease music](https://music.163.com/#/artist?id=46830712))
 - Anime
 
 ![SkyTNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyTNT&count_private=true&show_icons=true)
