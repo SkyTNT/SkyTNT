@@ -15,9 +15,8 @@
 
 #### 🤔 Research interests
 
-- Image generation (current work : [Full-body Anime GAN](https://huggingface.co/spaces/skytnt/full-body-anime-gan))
-- Text generation (current work : [Japanese Lyric Generator](https://huggingface.co/spaces/skytnt/lyric-generator-ja))
-- Music generation
+- Generative models
+
 - Game development
 
 #### 🪄 Previous learning experience
