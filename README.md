@@ -26,7 +26,7 @@
 
 #### 🥳 Hobbies
 
-- Make Music (composing and arranging, my works: [netease music](https://music.163.com/#/artist?id=46830712))
+- Make Music
 - Anime
 
 #### 🤗 Huggingface
