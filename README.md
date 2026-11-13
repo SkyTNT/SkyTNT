@@ -33,6 +33,6 @@
 
 Check out my demos on huggingface [skytnt](https://huggingface.co/skytnt)
 
-![SkyTNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyTNT&count_private=true&show_icons=true)
+![SkyTNT's GitHub stats](https://github-stats-extended.vercel.app/api?username=SkyTNT&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTNT&langs_count=7)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SkyTNT&langs_count=7)
